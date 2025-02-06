@@ -3,3 +3,4 @@
 ## People who made a PR
 
 - Pierre Marchand
+- Guillaume Delay
