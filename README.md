@@ -4,3 +4,4 @@
 
 - Pierre Marchand
 - Guillaume Delay
+- Maxime Renard
